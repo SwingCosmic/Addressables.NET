@@ -362,7 +362,7 @@ namespace UnityEngine.AddressableAssets.ResourceLocators
         {
         }
 
-#if UNITY_EDITOR
+#if true //UNITY_EDITOR
         /// <summary>
         /// Create a new ContentCatalogData object with the specified entries.
         /// </summary>
